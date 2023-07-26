@@ -6,5 +6,5 @@ This is a demo repo for sharing ideas around communication
 * two
 * three
 * 
-###Gist
+### Gist
 This is a good example of [my code](https://gist.github.com/peedpy/50291f67a057e8696ae650526c3c9f71)
